@@ -11,10 +11,11 @@
 		<link href="css/bootstrap.min.css" rel="stylesheet"> -->
 		
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-
+		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> -->
+                <link rel="stylesheet" href="http://udc.edu.ar/inscripciones/bootstrap/css/bootstrap.min.css" media="all">
+                
 		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+		<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"> -->
 	
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -493,11 +494,13 @@
 				</div> <!-- Fin del renglón 3 -->
 				<!-- FIN del Renglón 3 -->
 			</div>	
-			<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+			<!-- jQuery (necessary for Bootstrap's JavaScript plugins) 
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+                        <script src="http://udc.edu.ar/inscripciones/js/jquery-2.1.1.min.js"></script>
 			<!-- Include all compiled plugins (below), or include individual files as needed -->
-			<!-- Latest compiled and minified JavaScript -->
-			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+			<!-- Latest compiled and minified JavaScript 
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> -->
+                        <script src="http://udc.edu.ar/inscripciones/bootsatrap/js/bootstrap.min.js"></script>
 		</div>
 		<hr>
 	  </div>
